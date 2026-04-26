@@ -30,5 +30,5 @@ Excel | Power BI | SQL | Python
 ---
 
 ## 📫 Contact
-- LinkedIn: [[your link]](https://www.linkedin.com/in/sanjeevan-sivapalan-3a0133170/)
+- LinkedIn: https://www.linkedin.com/in/sanjeevan-sivapalan-3a0133170/
 - Email: sanjeesanji102@gmail.com
