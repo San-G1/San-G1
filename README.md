@@ -4,6 +4,12 @@
 
 ---
 
+![Python](https://img.shields.io/badge/Python-blue)
+![SQL](https://img.shields.io/badge/SQL-orange)
+![PowerBI](https://img.shields.io/badge/PowerBI-yellow)
+
+---
+
 ## 🚀 About Me
 - 🎓 MSc Data Science & AI student
 - 📊 BI Analyst with experience in Excel, SQL, Power BI
@@ -29,6 +35,14 @@
 🔹 Project 1 – Sales Dashboard (Coming soon)  
 🔹 Project 2 – SQL Customer Analysis (Coming soon)  
 🔹 Project 3 – Clustering / Sentiment Analysis (Coming soon)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=San-G1&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=San-G1&layout=compact)
 
 ---
 
