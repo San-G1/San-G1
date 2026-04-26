@@ -1,19 +1,27 @@
 # Hi, I'm Sanjeevan
 
-🎯 Data Analyst | BI Analyst | MSc Data Science & AI Student
+🎯 Business Intelligence Analyst | MSc Data Science & AI Candidate | Data Engineering & ML Enthusiast
 
 ---
 
-## 👤 About Me
-I am a Business Intelligence Analyst with experience in transforming data into actionable insights using Excel, SQL, and Power BI. Currently pursuing MSc in Data Science & AI.
+## 🚀 About Me
+- 🎓 MSc Data Science & AI student
+- 📊 BI Analyst with experience in Excel, SQL, Power BI
+- 🔍 Interested in Data Science, NLP, and Machine Learning
+- 📈 Passionate about turning raw data into business decisions
 
 ---
 
 ## 🧠 Skills
-- Data Analysis: SQL, Excel
-- Data Visualization: Power BI
-- Programming: Python
-- Other: Data Cleaning, ETL, Dashboarding
+**Data & Analytics**
+- Excel (Advanced, VBA)
+- SQL (Data extraction, joins, optimization)
+- Power BI / Tableau
+- Data Cleaning & ETL
+
+**Programming**
+- Python (Pandas, NumPy, Matplotlib)
+- R (Statistical analysis)
 
 ---
 
