@@ -40,8 +40,7 @@
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=San-G1&show_icons=true&theme=tokyonight)
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=San-G1&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=San-G1&layout=compact)
 
