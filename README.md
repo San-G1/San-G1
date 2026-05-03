@@ -32,7 +32,9 @@
 ---
 
 ## 📊 Projects
-🔹 Project 1 – Sales Dashboard (Coming soon)  
+🔹 Project 1 – Sales Dashboard 
+🔗https://github.com/San-G1/sales-dashboard-project
+
 🔹 Project 2 – SQL Customer Analysis (Coming soon)  
 🔹 Project 3 – Clustering / Sentiment Analysis (Coming soon)
 
