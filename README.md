@@ -36,7 +36,7 @@
 🔗https://github.com/San-G1/sales-dashboard-project
 
 🔹 Project 2 – SQL Customer Analysis (Coming soon)  
-🔹 Project 3 – Clustering / Sentiment Analysis (Coming soon)
+🔹 Project 3 – SQL Data Warehouse Projects (Coming soon)
 
 ---
 
